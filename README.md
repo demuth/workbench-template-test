@@ -13,3 +13,13 @@ This newer system follows a different path.
 [https://github.com/carpentries/workbench-template-md/](https://github.com/carpentries/workbench-template-md/)
 
 [https://github.com/carpentries/workbench-template-md/generate](https://github.com/carpentries/workbench-template-md/generate)
+
+## Configurations
+
+Configure the conf.yaml by repairing the FIXMEs.
+
+Set gh-pages, pause, test .io, update Settings showing URL and topics.
+
+Update README.md
+
+Begin lesson development cycles in _episodes and _extras.
