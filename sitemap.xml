@@ -58,6 +58,9 @@
     <loc>https://demuth.github.io/workbench-template-test/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://demuth.github.io/workbench-template-test/instructor/vnc.html</loc>
+  </url>
+  <url>
     <loc>https://demuth.github.io/workbench-template-test/instructor-notes.html</loc>
   </url>
   <url>
@@ -71,5 +74,8 @@
   </url>
   <url>
     <loc>https://demuth.github.io/workbench-template-test/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://demuth.github.io/workbench-template-test/vnc.html</loc>
   </url>
 </urlset>
