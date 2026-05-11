@@ -98,6 +98,7 @@ Hmm, big sur??
 
 Install RStudio: https://posit.co/download/rstudio-desktop (optional?)
 
+Video to watch: https://www.youtube.com/watch?v=g36cC76BbRo
 
 [cff-home]: https://citation-file-format.github.io/
 [cff-sandpaper-docs]:  https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable
