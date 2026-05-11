@@ -93,12 +93,15 @@ Review https://carpentries.github.io/sandpaper-docs/index.html#setup
 
 See https://github.com/carpentries/sandpaper-docs/blob/main/README.md
 
-For Mac https://cran-archive.r-project.org and for Intel Mac grab https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.6.0-x86_64.pkg
-Hmm, big sur??
+For Mac https://cran.r-project.org/bin/macosx/ and for Intel Mac grab https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.6.0-x86_64.pkg which creates an R icon in the Applications folder.
 
 Install RStudio: https://posit.co/download/rstudio-desktop (optional?)
 
 Video to watch: https://www.youtube.com/watch?v=g36cC76BbRo
+
+Install pandoc https://pandoc.org/installing.html using `sudo port install pandoc` or brew equivalent.
+
+
 
 [cff-home]: https://citation-file-format.github.io/
 [cff-sandpaper-docs]:  https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable
