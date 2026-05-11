@@ -38,6 +38,9 @@ complete the initial configuration of a new lesson repository built from this te
    - `keywords`
    - `life_cycle` (the default, _pre-alpha_, is the appropriate for brand new lessons)
    - `contact`
+  
+   Review https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html
+
 1. **Annotate the repository** with site URL and topic tags:
    navigate back to the repository landing page and
    click on the gear wheel/cog icon (similar to ⚙️) 
@@ -77,6 +80,24 @@ complete the initial configuration of a new lesson repository built from this te
 1. **Update this README with 
    [relevant information about your lesson](https://carpentries.github.io/lesson-development-training/collaborating-newcomers.html#readme)**
    and delete this section.
+
+## Build local editing environment 
+
+Create a working directory for your project, e.g., /Users/demuth/Work/dune/
+
+Use Github Desktop to clone the new repo as e.g., /Users/demuth/Work/dune/workbench-template-test/ and check version `$ git --version` to verify installation.
+
+Review https://carpentries.github.io/sandpaper-docs/index.html#setup 
+
+## Set up R server on your local machine
+
+See https://github.com/carpentries/sandpaper-docs/blob/main/README.md
+
+For Mac https://cran-archive.r-project.org and for Intel Mac grab https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.6.0-x86_64.pkg
+Hmm, big sur??
+
+Install RStudio: https://posit.co/download/rstudio-desktop (optional?)
+
 
 [cff-home]: https://citation-file-format.github.io/
 [cff-sandpaper-docs]:  https://carpentries.github.io/sandpaper-docs/editing.html#making-your-lesson-citable
