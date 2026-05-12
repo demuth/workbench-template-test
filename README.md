@@ -5,6 +5,8 @@ This lesson is a template lesson that uses [The Carpentries Workbench][workbench
 ## Note about lesson life cycle stage
 Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
 
+   Review https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html
+
 ## Create a new repository from this template
 
 To use this template to start a new lesson repository, 
@@ -39,8 +41,6 @@ complete the initial configuration of a new lesson repository built from this te
    - `life_cycle` (the default, _pre-alpha_, is the appropriate for brand new lessons)
    - `contact`
   
-   Review https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html
-
 1. **Annotate the repository** with site URL and topic tags:
    navigate back to the repository landing page and
    click on the gear wheel/cog icon (similar to ⚙️) 
